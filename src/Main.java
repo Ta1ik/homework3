@@ -24,7 +24,7 @@ public class Main {
         int i2 = -159;
         short s2 = 27897;
         byte b2 = 67;
-        System.out.println(+fl1 + ", " + l1 + ", " + b1 + ", " + s1 + ", " + bool1 + ", " + i1 + ", " + i2 + ", " + s2 + ", " + b2);
+        System.out.println(fl1 + ", " + l1 + ", " + b1 + ", " + s1 + ", " + bool1 + ", " + i1 + ", " + i2 + ", " + s2 + ", " + b2);
         System.out.println(" ");
         System.out.println("Задача 3"); //Расчет количества листов бумаги на учеников
         int firstTeacherLP = 23;
